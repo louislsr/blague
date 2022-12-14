@@ -1,0 +1,20 @@
+
+html, body {
+    height: 100%;
+}
+
+.bg-app {
+    background-color: #1C315E;
+}
+
+.bg-card {
+    background-color: #227C70;
+}
+
+.bg-button {
+    background-color: #88A47C;
+}
+
+.text-color {
+    color: #E6E2C3;
+}
